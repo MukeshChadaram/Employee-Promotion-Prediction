@@ -41,7 +41,9 @@ Insights on PROMOTIONS:​
 For instance, in the attribute "Recruitment channel" the No. Of Employees promoted are:​
 
 In Referred, 92 employees are promoted i.e., 1.97% of employees that are promoted.​
+
 In Others, 2651 employees are promoted i.e., 56.79% that are promoted.​
+
 In Sourced, 1925 employees are promoted i.e, 41.238% that are promoted.​
 
 
