@@ -33,16 +33,6 @@ For prediction modelling, we edited some attributes like removing and modifying 
 
 Kaggle.com - - https://www.kaggle.com/datasets/bhrt97/hr-analytics-classification
 
-The dataset we used for this project was found in Kaggle.com
-
-The dataset was cleaned using the Tableau Prep tool. We found null values present in the dataset under the Previous Year Rating Attribute. Which isn’t an Outlier. So, We changed it to ZERO.
-
-There are 54808 records in the dataset.​
-
-For prediction modelling, we edited some attributes like removing and modifying the data from the dataset (Data Transformation).
-
-Kaggle.com - - https://www.kaggle.com/datasets/bhrt97/hr-analytics-classification
-
 
 DATA  ANALYSIS
 
