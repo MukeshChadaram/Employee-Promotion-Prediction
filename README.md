@@ -42,7 +42,7 @@ There are 54808 records in the dataset.​
 For prediction modelling, we edited some attributes like removing and modifying the data from the dataset (Data Transformation).
 
 Kaggle.com - - https://www.kaggle.com/datasets/bhrt97/hr-analytics-classification
-![image](https://github.com/MukeshChadaram/Real-Time-Business-Monitoring/assets/152752535/a27b7a9b-9d02-43e3-82e9-26e692e299f9)
+
 
 DATA  ANALYSIS
 
@@ -53,10 +53,6 @@ For instance, in the attribute "Recruitment channel" the No. Of Employees promo
 In Referred, 92 employees are promoted i.e., 1.97% of employees that are promoted.​
 In Others, 2651 employees are promoted i.e., 56.79% that are promoted.​
 In Sourced, 1925 employees are promoted i.e, 41.238% that are promoted.​
-
-
-DATA  CLASSIFICATAION
-
 
 
 DATA  CORRELATION
